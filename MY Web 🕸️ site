@@ -34,7 +34,7 @@
     }
 
     body {
-      background-color: pink;
+      background-color: green;
       color: var(--text);
       transition: 0.4s;
       text-align: center;
